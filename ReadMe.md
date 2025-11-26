@@ -1,5 +1,5 @@
 # About Me:
-🔭 Web development.
+Web development.
 
 
 ## Socials:
