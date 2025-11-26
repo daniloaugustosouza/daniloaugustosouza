@@ -1,5 +1,5 @@
 # About Me:
-🔭 Estudante de Desenvolvimento Web Full Stack<br>👯 Estou à Procura de Estágio.
+🔭 Web development.
 
 
 ## Socials:
