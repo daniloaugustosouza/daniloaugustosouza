@@ -1,7 +1,7 @@
 <div align="center">
 
 # About Me:
-Web development.
+Software development.
 
 ## Socials:
 <a href="https://www.linkedin.com/in/danilo-augusto-souza/">
