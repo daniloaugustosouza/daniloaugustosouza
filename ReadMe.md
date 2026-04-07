@@ -1,12 +1,14 @@
 <div align="center">
 
-# About Me:
+
+# What I do:
 Software development.
 
 ## Socials:
 <a href="https://www.linkedin.com/in/danilo-augusto-souza/">
   <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?logo=linkedin&logoColor=white">
 </a>
+
 
 # Tech Stack:
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
