@@ -26,8 +26,10 @@ Software development.
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 # GitHub Stats:
-<img src="https://streak-stats.demolab.com?user=daniloaugustosouza&theme=dark&hide_border=true">
 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniloaugustosouza&show_icons=true&theme=gotham&count_private=true&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniloaugustosouza&theme=gotham&hide_border=true" />
 
 
 
