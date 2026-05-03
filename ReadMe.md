@@ -4,7 +4,7 @@
 
 <!-- TITLE -->
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=2000&color=013220&center=true&vCenter=true&width=700&lines=This+time...+it+has+to+be+different.;Story+of+my+life.;You+talk+too+much." alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=2000&color=00C853&center=true&vCenter=true&width=700&lines=This+time...+it+has+to+be+different.;Story+of+my+life.;You+talk+too+much." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -12,15 +12,15 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-augusto-souza/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-013220?style=flat-square)](https://dan-portfolio-theta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f3a5f?style=for-the-badge&labelColor=0d0d0d)](https://www.linkedin.com/in/danilo-augusto-souza/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f5f3a?style=for-the-badge&labelColor=0d0d0d)](https://dan-portfolio-theta.vercel.app/)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=2000&color=013220&center=true&vCenter=true&width=500&lines=%7C+Software+development."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=2000&color=00C853&center=true&vCenter=true&width=500&lines=%7C+Software+development."/>
 </div>
 
 --- 
@@ -82,9 +82,7 @@
 
 
 ---
-<br/>
 
-<img src="https://i.imgur.com/qy0nrKB.jpeg" width="70%"/>
 
 <br/>
 
@@ -94,5 +92,3 @@
 
 
 </div>
-
-
