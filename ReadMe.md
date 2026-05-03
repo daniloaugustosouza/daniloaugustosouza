@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=2000&color=00C853&center=true&vCenter=true&width=500&lines=%7C+Software+development."/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=2000&color=00C853&center=true&vCenter=true&width=500&lines=%7C+Software+development.;Danilo+Augusto"/>
 </div>
 
 --- 
