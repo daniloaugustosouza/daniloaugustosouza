@@ -33,9 +33,9 @@
 </div>
 
 <div>
-<br/><br/>
+<br/>
 <img align="center" src="https://i.imgur.com/ivNxHPC.jpeg" width="260"/>
-<br/><br/><br/><br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=013220">
 <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=013220">
@@ -64,7 +64,7 @@
 <br clear="right"/>
 
 </div>
-<br/><br/><br/>
+<br/>
 
 ---
 
